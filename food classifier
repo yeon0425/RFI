@@ -1,0 +1,23 @@
+사진 입력하면 음식종류 분류해주는 모델
+
+<주피터노트북>
+https://github.com/stratospark/food-101-mobile.git
+
+https://github.com/npatta01/web-deep-learning-classifier/releases
+실제 Webapp에 사용된 모델이라고 소개되어있는데 안열림
+
+개선점)
+두 모델 모두 음식종류가 양식에 한정되어 있음
+따라서 일상적으로 섭취하게되는 음식종류의 자동분류 및 칼로리계산에 어려움이 있음
+
+cnn사용
+https://github.com/Prakhar998/food-101
+
+9가지 멕시칸음식에 대해서 분류한 모델
+https://github.com/viritaromero/Mexican-Food-Classifier
+
+3가지로 - 칼로리 계산 아니라 더 큰 분류로 음식 분류할때 유용할듯
+https://github.com/rileykwok/Food-Classification
+
+과일분류 cnn
+https://github.com/SimitTomar/food_classifier/blob/master/food.ipynb
